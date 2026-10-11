@@ -45,7 +45,7 @@ In short, this is how they work:
 
 During the schematic editing, I wondered why the components didn't look exactly like the reference image, so then I realized I had to manually add the components above using the P and L buttons. I also couldn't figure out how to connect the wires, but simply pressing W and connecting both points does the trick:
 
-![Screenshot 2026-10-11 095457](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/UMx8GtS67VH17jO55ZdjXA5Q5GgA51Ts/44110102ebfb132df31f26e130433adf0ee1d7e4591bb187fbda4131b0c0f6cf.png)
+![Screenshot 2026-10-8 095457](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/UMx8GtS67VH17jO55ZdjXA5Q5GgA51Ts/44110102ebfb132df31f26e130433adf0ee1d7e4591bb187fbda4131b0c0f6cf.png)
 
 When working on the footprint assignment, I realized J1 had over 10000 results!, i then realized I had a search bar to narrow it down and I got the file assignments in, though I don't know why my version doesn't really match with the reference image. For example, U1  has XIAO and U2 has DHT11, and the image shows the exact opposite! After searching, I can't really force them to switch, yet I don't have any errors after following the guide.
 
@@ -55,4 +55,4 @@ Woah! The PCB editor looks like space, and for some reason, my design is somewha
 
 I then realized that I hadn't read that the components needed to be connected by the F.Cu lines from the guided blue lines (B.Cu?). I also noticed that the "wires" can't intersect unless they are part of the same connecting system.
 
-![Screenshot 2026-10-09 183053](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/UMx8GtS67VH17jO55ZdjXA5Q5GgA51Ts/db7c66bcd9fe5d4a70535557d98d85b75ae5d36919a1e1fb75dfb8ce24e3882b.png)
+![Screenshot 2026-10-08 183053](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/UMx8GtS67VH17jO55ZdjXA5Q5GgA51Ts/db7c66bcd9fe5d4a70535557d98d85b75ae5d36919a1e1fb75dfb8ce24e3882b.png)
