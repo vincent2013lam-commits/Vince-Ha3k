@@ -15,12 +15,11 @@
 | [Seeed Studio XIAO ESP32-C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html?srsltid=AU7gw4VBZDi2pNJTi1_aTLsw8mhcAKzjEh0Pw9O2THXhT_uKdL6e_Sms) | Runs the Arduino code | 1 | $4.99 | $4.99 | [Seeed Studio](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html?srsltid=AU7gw4VBZDi2pNJTi1_aTLsw8mhcAKzjEh0Pw9O2THXhT_uKdL6e_Sms) |
 | [DHT11 Temperature-Humidity Sensor](https://www.waveshare.com/product/temperature-humidity-sensor.htm) | Measures the air temperature and humidity | 1 | $3.99 | $3.99 | [Waveshare](https://www.waveshare.com/product/temperature-humidity-sensor.htm) |
 | [10K Ohm 1/4 Watt Resistor](https://vetco.net/products/nte-qw310_10k_ohm_1-4_watt_resistor) | Controls the electrical current | 1 | $0.29 | $0.29 | [Vetco](https://vetco.net/products/nte-qw310_10k_ohm_1-4_watt_resistor) |
-| [0.96" OLED Graphic Display 128x64 - SPI, I2C](https://www.displaymodule.com/products/0-96-inch-oled-graphic-display-128x64-with-spi-i2c?variant=12246550249570) | Shows readings from the Starbie Program | 1 | $4.90 | $4.90 | [Display Module](https://www.displaymodule.com/products/0-96-inch-oled-graphic-display-128x64-with-spi-i2c?variant=12246550249570) |
 | [MPU6050 GY-521 V2 Unsoldered IMU Accelerometer & Gyroscope Sensor for Arduino](https://shillehtek.com/products/shillehtek-mpu-6050-module-gy-521-module-unsoldered-version) | Detects movement | 1 | $6.99 | $6.99 | [Shillehtek](https://shillehtek.com/products/shillehtek-mpu-6050-module-gy-521-module-unsoldered-version) |
 | [Cherry MX1A Hyperglide PCB Mount Switches](https://divinikey.com/products/cherry-mx-pcb-mount-switches) | Buttons for the program to press on | 1 | $5.40 | $5.40 | [Divinikey](https://divinikey.com/products/cherry-mx-pcb-mount-switches) |
 | [Translucent Keycaps for MX Compatible Switches - 10 pack](https://www.adafruit.com/product/4956) | Makes it easier to press | 1 | $4.95 | $4.95 | [adafruit](https://www.adafruit.com/product/4956) |
-| **Parts subtotal** | — | — | — | **$31.51** | — |
+| **Parts subtotal** | — | — | — | **$26.61** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$31.51** | — |
+| **Total** | — | — | — | **$26.61** | — |
 
-**$1.51 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$3.39 left of the tier's funding.
