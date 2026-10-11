@@ -12,13 +12,10 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| [DHT11 Temperature-Humidity Sensor](https://www.waveshare.com/product/temperature-humidity-sensor.htm) | Measures the air temperature and humidity | 1 | $3.99 | $3.99 | [Waveshare](https://www.waveshare.com/product/temperature-humidity-sensor.htm) |
-| [10K Ohm 1/4 Watt Resistor](https://vetco.net/products/nte-qw310_10k_ohm_1-4_watt_resistor) | Controls the electrical current | 1 | $0.29 | $0.29 | [Vetco](https://vetco.net/products/nte-qw310_10k_ohm_1-4_watt_resistor) |
-| [MPU6050 GY-521 V2 Unsoldered IMU Accelerometer & Gyroscope Sensor for Arduino](https://shillehtek.com/products/shillehtek-mpu-6050-module-gy-521-module-unsoldered-version) | Detects movement | 1 | $6.99 | $6.99 | [Shillehtek](https://shillehtek.com/products/shillehtek-mpu-6050-module-gy-521-module-unsoldered-version) |
 | [Cherry MX1A Hyperglide PCB Mount Switches](https://divinikey.com/products/cherry-mx-pcb-mount-switches) | Buttons for the program to press on | 1 | $5.40 | $5.40 | [Divinikey](https://divinikey.com/products/cherry-mx-pcb-mount-switches) |
 | [Translucent Keycaps for MX Compatible Switches - 10 pack](https://www.adafruit.com/product/4956) | Makes it easier to press | 1 | $4.95 | $4.95 | [adafruit](https://www.adafruit.com/product/4956) |
-| **Parts subtotal** | — | — | — | **$21.62** | — |
+| **Parts subtotal** | — | — | — | **$10.35** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$21.62** | — |
+| **Total** | — | — | — | **$10.35** | — |
 
-$8.38 left of the tier's funding.
+$19.65 left of the tier's funding.
