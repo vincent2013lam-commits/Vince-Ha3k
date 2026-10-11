@@ -21,7 +21,7 @@
 | [10k Resistor](https://www.amazon.com/dp/B0B4JFPHTW) | Controls electrical current | 1 | $0.05 | $0.05 | [Amazon](https://www.amazon.com/dp/B0B4JFPHTW) |
 | [PCB](https://www.jlcpcb.com/) | The entire system | 1 | $10.00 | $10.00 | [JLCPCB](https://www.jlcpcb.com/) |
 | **Parts subtotal** | — | — | — | **$24.96** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$24.96** | — |
+| **Tax & shipping** | — | — | — | **$1.93** | — |
+| **Total** | — | — | — | **$26.89** | — |
 
-$5.04 left of the tier's funding.
+$3.11 left of the tier's funding.
