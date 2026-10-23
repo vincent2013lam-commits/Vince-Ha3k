@@ -3,6 +3,8 @@ Starbie is an interactive electronic pet. It features a microcontroller, buttons
 Starbie Image:
 <img width="872" height="573" alt="image" src="https://github.com/user-attachments/assets/d6b8d80c-ad6b-4121-bb13-8bb72a910376" />
 
+(I may not add images)
+
 
 First things, to make a Starbie, we need the following components:
 - 0.96-inch OLED Display: Shows data from the Starbie Program
