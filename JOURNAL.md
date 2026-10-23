@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 13.5h | 4 |
+| Week 1 | Tier 1 | 14h | 4 |
 
 ## Contents
 
@@ -106,7 +106,7 @@ I proceeded to add the Gerber and Drill Files, and it took me a while to add the
 
 ### 2026-10-22 – October 22: #5TARBIE!!!
 
-**3h**
+**3.5h**
 
 October 22: #5TARBIE!!!
 
@@ -118,4 +118,8 @@ I fixed the design which was easy, but this time, i don't think I'll need images
 
 ![image](https://halflife.hackclub-assets.com/sessions/UMx8GtS67VH17jO55ZdjXA5Q5GgA51Ts/cd8ad098f429ce7eca036cb25048a7309045e4f90a20b177858b357054bf63a6.png)
 
+These were some of the images I tried to add on:
+
 ![Ghost-Emoji-5-SVG-PNG-JPEG-PDF-Graphics-37554098-1-1-580x387](https://halflife.hackclub-assets.com/sessions/UMx8GtS67VH17jO55ZdjXA5Q5GgA51Ts/45b279a528d125638d3c30db490298a8504edd1fe823481b06e1e62614a3535e.jpg)
+
+![istockphoto-1296415183-612x612](https://halflife.hackclub-assets.com/sessions/UMx8GtS67VH17jO55ZdjXA5Q5GgA51Ts/41b5f9265c9f8de8b6f5aa734a6a7a7bfa36c1288ac4e7b65c3885a4a78146c4.jpg)
