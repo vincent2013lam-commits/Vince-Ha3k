@@ -2,3 +2,47 @@ Starbie is an interactive electronic pet. It features a microcontroller, buttons
 
 Starbie Image:
 https://github.com/vincent2013lam-commits/Vince-Ha3k/blob/main/starbie.png.png 
+
+First things, to make a Starbie, we need the following components:
+- 0.96-inch OLED Display: Shows data from the Starbie Program
+ 
+<img width="540" height="483" alt="image" src="https://github.com/user-attachments/assets/601d6195-d016-42bc-a4c3-164688f27f81" />
+
+- XIAO ESP32 C3: Runs the Arduino code
+
+<img width="390" height="337" alt="image" src="https://github.com/user-attachments/assets/c156e5ba-ae19-45bb-b655-731533e8124c" />
+
+- DHT11: Measures the air temperature and humidity
+
+<img width="355" height="428" alt="image" src="https://github.com/user-attachments/assets/12b0fa27-5523-4bbb-b6f8-d8775217582c" />
+
+- MPU6050: Detects movement
+
+<img width="1500" height="1500" alt="image" src="https://github.com/user-attachments/assets/56e67418-a4c5-4688-8e71-6642c724f969" />
+
+- MX Switches: Allows pressing
+  
+<img width="495" height="456" alt="image" src="https://github.com/user-attachments/assets/69ae2f3f-991f-4054-8e81-2c5b85e76f25" />
+
+- Keycaps: Allows pressing
+  
+<img width="605" height="487" alt="image" src="https://github.com/user-attachments/assets/69cfe818-7123-4e8f-bfcd-4fbac3b14433" />
+
+- 10k Resistor: Controls electrical current
+  
+<img width="497" height="489" alt="image" src="https://github.com/user-attachments/assets/bef48649-1cd4-44f7-897b-cfa14ab37d8f" />
+
+- PCB: The entire system the Starbie operates on
+
+Bill of Materials Table:
+
+<img width="622" height="334" alt="image" src="https://github.com/user-attachments/assets/b903c75f-696c-47e7-aa46-2fce06d2db37" />
+
+
+
+
+
+
+
+
+
