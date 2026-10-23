@@ -1,7 +1,8 @@
 Starbie is an interactive electronic pet. It features a microcontroller, buttons, an Arduino code, and a custom design. The project consists with a Kicad schematic design, hosting all of the components, and a pcb design, where we construct and place all of the components. The code is in Aduino and in C++, featuring all of the starbie's responses and overall behavior.
 
 Starbie Image:
-https://github.com/vincent2013lam-commits/Vince-Ha3k/blob/main/starbie.png.png 
+<img width="872" height="573" alt="image" src="https://github.com/user-attachments/assets/d6b8d80c-ad6b-4121-bb13-8bb72a910376" />
+
 
 First things, to make a Starbie, we need the following components:
 - 0.96-inch OLED Display: Shows data from the Starbie Program
