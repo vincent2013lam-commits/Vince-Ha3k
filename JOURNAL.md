@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 12.5h | 4 |
+| Week 1 | Tier 1 | 13.5h | 4 |
 
 ## Contents
 
@@ -106,14 +106,16 @@ I proceeded to add the Gerber and Drill Files, and it took me a while to add the
 
 ### 2026-10-22 – October 22: #5TARBIE!!!
 
-**2h**
+**3h**
 
 October 22: #5TARBIE!!!
 
 After receiving results, I had some work to do:
 
-I fixed the design which was easy, but this time, i don't think I'll need images this time, so I removed them, (personal preference and being simple). Lastly, I don't know if you'll agree me with this, but this is the only option I could think of, I pasted a picture of a table of materials that I personally made onto the readme, because I could do Google sheets and don't know how to do the .csv part:
+I fixed the design which was easy, but this time, i don't think I'll need images this time, so I removed them, (personal preference and being simple). Before, I wanted to add line art images, but they didn't show up, so I resolved to keep it simple. Lastly, I don't know if you'll agree me with this, but this is the only option I could think of, I pasted a picture of a table of materials that I personally made onto the readme, because I could do Google sheets and don't know how to do the .csv part:
 
 ![image](https://halflife.hackclub-assets.com/sessions/UMx8GtS67VH17jO55ZdjXA5Q5GgA51Ts/742f68680f7717a75a254b83ff021737ae975b462fe32f43c72e3d9297fa112e.png)
 
 ![image](https://halflife.hackclub-assets.com/sessions/UMx8GtS67VH17jO55ZdjXA5Q5GgA51Ts/cd8ad098f429ce7eca036cb25048a7309045e4f90a20b177858b357054bf63a6.png)
+
+![Ghost-Emoji-5-SVG-PNG-JPEG-PDF-Graphics-37554098-1-1-580x387](https://halflife.hackclub-assets.com/sessions/UMx8GtS67VH17jO55ZdjXA5Q5GgA51Ts/45b279a528d125638d3c30db490298a8504edd1fe823481b06e1e62614a3535e.jpg)
