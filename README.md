@@ -38,6 +38,13 @@ Bill of Materials Table:
 
 <img width="622" height="334" alt="image" src="https://github.com/user-attachments/assets/b903c75f-696c-47e7-aa46-2fce06d2db37" />
 
+Making the 5TARBIE process:
+1. Sketch the needed components on the schematic editior
+2. Transfer the schematic to the pcb editor
+3. Wire every needed connection and design the base of your star
+4. Use the Design Rules Checker to catch any mistakes
+
+
 
 
 
