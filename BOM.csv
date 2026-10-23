@@ -1,0 +1,10 @@
+Item,Qty,Supplier,Cost/item,Total Cost,link
+0.96-inch OLED Display,1,Amazon,$2.50,$2.50,https://www.amazon.com/dp/B0GBVWBWCR
+XIAO ESP32 C3,1,Seeed Studio,$5.00,$5.00,https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html
+DHT11,1,Amazon,$2.00,$2.00,https://www.amazon.com/dp/B0BLG7R99R
+MPU6050,1,Amazon,$2.29,$2.29,https://www.amazon.com/dp/B0943SGP34
+MX Switches,4,Amazon,$0.18,$0.72,https://www.amazon.com//dp/B0FQP8VYX4
+Keycaps,4,Amazon,$0.60,$2.40,https://www.amazon.com/dp/B0CQ2VLMVY
+10k Resistor,1,Amazon,$0.05,$0.05,https://www.amazon.com/dp/B0B4JFPHTW
+PCB,1,JLCPCB,$10.00,$10.00,https://www.jlcpcb.com/
+Estimated total shipping,1,,,$1.93,
