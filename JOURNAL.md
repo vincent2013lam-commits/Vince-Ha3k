@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 14h | 4 |
+| Week 1 | Tier 1 | 14.5h | 4 |
 
 ## Contents
 
@@ -106,7 +106,7 @@ I proceeded to add the Gerber and Drill Files, and it took me a while to add the
 
 ### 2026-10-22 – October 22: #5TARBIE!!!
 
-**3.5h**
+**4h**
 
 October 22: #5TARBIE!!!
 
